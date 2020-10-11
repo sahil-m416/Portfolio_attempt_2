@@ -1,5 +1,5 @@
 # sahil
-<!doctype html>
+
 <html>
 	<head>
 		<title>My First HTML Page</title>
@@ -107,13 +107,13 @@
 				</div>
 				<div>
 					<img src="AIForeveryone.jpg">
-					<p>WEB DEVELOPMENT</p>
-					<p>Project Description- Full stack webpage dovelopment</p>
+					<p>ARTIFICIAL INTELLIGENCE</p>
+					<p>Project Description- Full course Machine learning and AI.</p>
 				</div>
 				<div>
 					<img src="WebIntern.jpg">
-					<p>ARTIFICIAL INTELLIGENCE</p>
-					<p>Project Description- Full course Machine learning and AI.</p>
+					<p>WEB DEVELOPMENT</p>
+					<p>Project Description- Full stack webpage dovelopment.</p>
 				</div>
 			</div>
 		</div>
